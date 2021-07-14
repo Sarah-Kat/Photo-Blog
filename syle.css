@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color:aquamarine;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+}
+ p {
+    font-family: 'Neucha', cursive;
+ }
